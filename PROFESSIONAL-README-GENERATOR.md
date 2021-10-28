@@ -1,7 +1,8 @@
 
-  # Squid Games
+  # dfasd
 
-  ## Finish all 6 games to win the prize! 
+  ## Description
+  dsfafads
 
   ## Table of Contents
   - [Installation](#installation)
@@ -13,25 +14,28 @@
   - [Github](#github)
 
   ## Installation
-  Made all 6 games 
+  dsafasfsd
 
   ## Usage
-  Usage is crazzzyyyyyy
+  sadfdsfas
 
   ## License
-  MIT
+  Apache
+  Copyright (c) [2021]
+  ![Apache](/assets/apache.svg)
+  https://choosealicense.com/licenses/apache-2.0
 
   ## Credits
-  Me myself and I and youtube
+  fdadsfsd
 
   ## Tests
-  all sorts of tests
+  dsafadsf
 
   ## Contact
-  email address
+  sadfsdfasd
 
   ## Github
-  www.google.com
+  dsafdsfas
 
   ## How to Contribute
 If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.

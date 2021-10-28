@@ -31,8 +31,9 @@ const questions = [
         name: 'usage',
     },
     {
-        type: 'type',
-        message: 'Enter the license for your project.',
+        type: 'list',
+        message: 'Choose the license for your project.',
+        choices: ["Apache", "GNU", "MIT", "ISC"],
         name: 'license',
     },
     {
