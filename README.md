@@ -1,7 +1,7 @@
 # <Professional-README-Generator>
 
 ## Description
-
+Automatic README template generator meant to save time for web developers so they can focus on their code
 
 ## Table of Contents (Optional)
 - [Installation](#installation)
@@ -10,10 +10,10 @@
 - [License](#license)
 
 ## Installation
-https://matthewjflanagan.github.io/Squid-Games/ 
+Clone Repo to your computer and open in terminal, then enter node index to start the application
 
 ## Usage
-
+https://watch.screencastify.com/v/nFt6snZBDcdIEst7wDUZ
 
 ## License
 MIT License

@@ -1,8 +1,8 @@
 
-  # dfasd
+  # Title of the Project
 
   ## Description
-  dsfafads
+  Automatic README template generator meant to save time for web developers so they can focus on their code
 
   ## Table of Contents
   - [Installation](#installation)
@@ -14,28 +14,28 @@
   - [Github](#github)
 
   ## Installation
-  dsafasfsd
+  Clone Repo to your computer and open in terminal, then enter node index to start the application 
 
   ## Usage
-  sadfdsfas
+  Screenshots // Examples of the app being used // links to additional resources
 
   ## License
-  Apache
+  MIT
   Copyright (c) [2021]
-  ![Apache](/assets/apache.svg)
-  https://choosealicense.com/licenses/apache-2.0
+  ![MIT](/assets/mit.svg
+  https://choosealicense.com/licenses/mit
 
   ## Credits
-  fdadsfsd
+  Tutor and TA / Office Hours 
 
   ## Tests
-  dsafadsf
+  code for the tests made
 
   ## Contact
-  sadfsdfasd
+  email@gmail.com 
 
   ## Github
-  dsafdsfas
+  www.github.com/repository 
 
   ## How to Contribute
 If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
